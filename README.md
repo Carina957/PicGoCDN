@@ -1,0 +1,2 @@
+# PicGoCDN
+Own drawing bed
